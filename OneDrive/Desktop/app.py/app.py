@@ -14,7 +14,7 @@ faqs = {
 faq_questions = list(faqs.keys())
 
 
-st.set_page_config(page_title="FAQ Chatbot", page_icon="🤖")
+st.set_page_config(page_title="FAQ Chatbot", page_icon="֎")
 st.title("🤖 FAQ Assistant")
 st.write("Ask a question related to your internship or project details!")
 
