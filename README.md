@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot using Streamlit
+# 🤖 AI Chatbot using Streamli
 
 ## 📌 Project Description
 This project is an AI-based chatbot built using Python and Streamlit.  
