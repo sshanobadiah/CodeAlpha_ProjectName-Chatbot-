@@ -20,4 +20,4 @@ It answers user queries related to CodeAlpha internship tasks using similarity m
 pip install -r requirements.txt
 streamlit run app.py
 
- #It is creaded by college student.
+ #It is creaded by collage student.
